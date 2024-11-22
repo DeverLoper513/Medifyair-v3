@@ -18,6 +18,9 @@
 a{
   text-decoration: none;
 }
+a.yotpo-sr-bottom-line-summary {
+    text-decoration: none;
+}
 body {
   background-color: var(--generic-template-background) !important;
 }
